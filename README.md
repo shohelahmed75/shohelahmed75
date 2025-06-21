@@ -1,5 +1,32 @@
-## Hi there 👋
 
+# 👋 Hi, I'm Shohel Ahmed
+
+I'm a passionate **Full Stack Developer** who loves building things that matter. My core stack is the **MERN** stack:
+- **MongoDB**
+- **Express.js**
+- **React.js**
+- **Node.js**
+
+## 🚀 About Me
+- I am always exploring new technologies and frameworks.
+- I love working on projects that help me learn and grow as a developer.
+- My goal is to create impactful, scalable, and innovative solutions.
+
+## 🛠️ Skills
+- JavaScript (ES6+)
+- MongoDB, Express.js, React.js, Node.js
+- RESTful API development
+- Responsive web design
+
+## 🌱 What I’m Up To
+- Building new projects that challenge my skills.
+- Continuously learning and keeping up with the latest in tech.
+
+---
+
+<!--
+**shohelahmed75/shohelahmed75** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 <!--
 **shohelahmed75/shohelahmed75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
