@@ -12,11 +12,19 @@ I'm a passionate **Full Stack Developer** who loves building things that matter.
 - I love working on projects that help me learn and grow as a developer.
 - My goal is to create impactful, scalable, and innovative solutions.
 
-## 🛠️ Skills
-- JavaScript (ES6+)
-- MongoDB, Express.js, React.js, Node.js
-- RESTful API development
-- Responsive web design
+## Tech Stack
+
+**Frontend:**
+React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
+
+**Backend:** 
+Node.js, Express.js
+
+**Database:**
+Mongo DB, PostgreSQL, SQL
+
+**Tools:**
+Git & GitHub, Postman, VS Code, Vercel, Netlify
 
 ## 🌱 What I’m Up To
 - Building new projects that challenge my skills.
