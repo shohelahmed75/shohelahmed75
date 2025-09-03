@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Developer** who loves building things that matter.
 ## Tech Stack
 
 **Frontend:**
-React.js, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS
+React.js, Next.js, JavaScript (ES6+), Tailwind CSS
 
 **Backend:** 
 Node.js, Express.js
