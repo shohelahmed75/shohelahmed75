@@ -1,51 +1,34 @@
+<h1 align="center">Hi, I'm Shohel Ahmed </h1>
+<h3 align="center">Passionate Developer | AI Enthusiast | Full Stack Engineer</h3>
 
-# 👋 Hi, I'm Shohel Ahmed
+<h2 align="left">About me:</h2>
 
-I'm a passionate **Full Stack Developer** who loves building things that matter. My core stack is the **MERN** stack:
-- **MongoDB**
-- **Express.js**
-- **React.js**
-- **Node.js**
+I am an enthusiastic developer with a problem-solving mindset, specializing in building intelligent applications using modern web technologies and AI. Always eager to learn and explore new paradigms, including Agentic AI and RAG architectures!
 
-## 🚀 About Me
-- I am always exploring new technologies and frameworks.
-- I love working on projects that help me learn and grow as a developer.
-- My goal is to create impactful, scalable, and innovative solutions.
+- I’m currently focusing on **Full Stack Web Development & Generative AI**
+- Deeply interested in **AI Architectures, Agentic AI & RAG**
+- Ask me about **React, Node.js, Next.js, and Python**
+- How to reach me: contact@shohel.in
 
-## Tech Stack
+### Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongo,postgres,mysql,aws,docker,git,npm&perline=9" alt="Tech Stack" height="65" />
+  </a>
+</p>
 
-**Frontend:**
-React.js, Next.js, JavaScript (ES6+), Tailwind CSS
+### AI Specializations:
+<p align="left">
+  <img src="https://img.shields.io/badge/Agentic%20AI-222222?style=for-the-badge&logo=openai&logoColor=white" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/Multimodal%20AI-0052CC?style=for-the-badge&logo=anthropic&logoColor=white" alt="Multimodal AI" />
+  <img src="https://img.shields.io/badge/AI%20Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="AI Automation" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Vector_Databases-090909?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DBs" />
+</p>
+<br>
 
-**Backend:** 
-Node.js, Express.js
+## GitHub Statistics:
 
-**Database:**
-Mongo DB, PostgreSQL, SQL
-
-**Tools:**
-Git & GitHub, Postman, VS Code, Vercel, Netlify
-
-## 🌱 What I’m Up To
-- Building new projects that challenge my skills.
-- Continuously learning and keeping up with the latest in tech.
-
----
-
-<!--
-**shohelahmed75/shohelahmed75** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
-**shohelahmed75/shohelahmed75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shohelahmed75&theme=tokyonight)](https://github.com/shohelahmed75)
