@@ -3,7 +3,7 @@
 
 <h2 align="left">About me:</h2>
 
-I am an enthusiastic developer with a problem-solving mindset, specializing in building intelligent applications using modern web technologies and AI. Always eager to learn and explore new paradigms, including Agentic AI and RAG architectures!
+I am an enthusiastic developer with a problem-solving mindset, specializing in building intelligent applications using modern web technologies and AI. Always eager to learn and explore new paradigms, including Agentic Architectures!
 
 - I’m currently focusing on **Full Stack Web Development & Generative AI**
 - Deeply interested in **AI Architectures, Agentic AI & RAG**
