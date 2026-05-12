@@ -3,7 +3,7 @@
 
 <h2 align="left">About me:</h2>
 
-I am an enthusiastic developer with a problem-solving mindset, specializing in building intelligent applications using modern web technologies and AI. Always eager to learn and explore new paradigms, including Agentic Architectures!
+I am an enthusiastic developer with a problem-solving mindset, specializing in building intelligent applications using modern web technologies and AI. Always eager to learn and explore new paradigms, including Agentic AI and RAG architectures!
 
 - I’m currently focusing on **Full Stack Web Development & Generative AI**
 - Deeply interested in **AI Architectures, Agentic AI & RAG**
@@ -13,7 +13,7 @@ I am an enthusiastic developer with a problem-solving mindset, specializing in b
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongo,postgres,mysql,aws,docker,git,npm&perline=9" alt="Tech Stack" height="65" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongo,postgres,mysql,aws,docker,git,npm&perline=9" alt="Tech Stack" height="85" />
   </a>
 </p>
 
