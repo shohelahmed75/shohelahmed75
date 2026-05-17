@@ -13,13 +13,8 @@ I am an enthusiastic developer with a problem-solving mindset, specializing in b
 ### Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongo,postgres,mysql,aws,docker,git,npm,firebase&perline=9,pinecone" alt="Tech Stack" height="65" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,html,css,tailwind,react,nextjs,nodejs,express,mongo,postgres,mysql,aws,docker,git,npm,firebase&perline=9" alt="Tech Stack" height="65" />
   </a>
-  <br><br>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Qdrant-D33833?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
 </p>
 
 ### AI Specializations:
